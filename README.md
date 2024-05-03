@@ -14,8 +14,15 @@ The DeepONet implementation and training is based on DeepXDE:
 }
 
 If you find our model helpful in your specific applications and researches, please cite this article as: 
-To be updated.
-
+@article{he2024sequential,
+  title={Sequential Deep Operator Networks (S-DeepONet) for predicting full-field solutions under time-dependent loads},
+  author={He, Junyan and Kushwaha, Shashank and Park, Jaewan and Koric, Seid and Abueidda, Diab and Jasiuk, Iwona},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={127},
+  pages={107258},
+  year={2024},
+  publisher={Elsevier}
+}
 
 The training data is large in size and can be downloaded through the following UIUC Box link:
 https://uofi.box.com/s/5uofjmix7e9fr7muojgrb0zd264pu922
